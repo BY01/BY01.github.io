@@ -29,7 +29,7 @@ kramdown:
 owner:
   name: Zubaidah
   avatar: ok.png
-  bio: <a href = "http://uin-suska.ac.id"> UIN SUSKA RIAU</a>
+  bio : <a href = "http://uin-suska.ac.id"> UIN SUSKA RIAU</a>
  
   email: 
   disqus-shortname: 
