@@ -34,8 +34,8 @@ owner:
   email: 
   disqus-shortname: 
   twitter: zvr001#username
-  facebook: Zubaydah Vriinzy #username
-  google: Zubaidah vriinzy
+  facebook:#username
+  google:
     plus: zubaidah#username
     analytics: 
     verify: 
@@ -44,10 +44,10 @@ owner:
   bing-verify: 
   github: BY01 #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: Zubaydah Vriinzy#username
-  instagram: zvr001 #username
- Line: Zubaydah#username
+  linkedin:#username
+  instagram:#username
+ Line:#username
 
-  youtube:Zubaydah Vriinzy #username
+  youtube:#username
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
