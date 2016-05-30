@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Author Override"
+title: "Motivasi Hidup"
 author: billy_rick
 modified:
-excerpt: "A post to test author overrides using a data file."
+excerpt: "Sesuatu yang memotivasimu untuk hidup lebih baik"
 tags: []
 ---
 
