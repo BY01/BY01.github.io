@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+title: Curahan Hati Yang Galau
+excerpt: "Hati yang galau, membuat semua pekerjaan tidak terselasaikan maksimal"
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
 comments: true
