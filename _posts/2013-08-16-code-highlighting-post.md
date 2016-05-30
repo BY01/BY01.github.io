@@ -2,7 +2,7 @@
 layout: post
 title: 7 Jurusan dengan Gaji Terbesar
 excerpt: "Jika anda termasuk dalam jurusan ini anda adalah orang yang beruntung"
-tags: [sample post, code, highlighting]
+tags:
 modified: 2016-23-05
 comments: true
 ---
