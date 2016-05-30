@@ -19,9 +19,8 @@ Zubaidah
   web: http://zubaydah.vriinzy.com
   email: zubaidah267.com
   bio: "I just a simple women."
-  avatar: sip.jpg
   twitter: Zvr001
-  google:
+  google:zubaidah vriinzy
     plus: Zubaidah
 
 {% endhighlight %}
